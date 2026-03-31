@@ -125,3 +125,9 @@ Contrastive Flow Matching
 
 https://arxiv.org/pdf/2506.05350v1 
 Flow matching 训练加速 可以和REPA叠加使用
+
+### Physical AI Data
+
+蚂蚁灵波depth数据开源
+
+https://huggingface.co/datasets/robbyant/mdm_depth
