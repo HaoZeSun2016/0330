@@ -126,8 +126,21 @@ Contrastive Flow Matching
 https://arxiv.org/pdf/2506.05350v1 
 Flow matching 训练加速 可以和REPA叠加使用
 
-### Physical AI Data
+### Physical AI Data && Benchmark
 
 蚂蚁灵波depth数据开源
 
 https://huggingface.co/datasets/robbyant/mdm_depth
+
+
+World Consistency Score: A Unified Metric for Video Generation Quality
+
+https://arxiv.org/pdf/2508.00144v1 
+
+
+### 杂七杂八
+
+MUON优化器改进
+
+https://dao-lab.ai/blog/2026/gram-newton-schulz/
+
