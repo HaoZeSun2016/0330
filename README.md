@@ -88,6 +88,9 @@ https://arxiv.org/pdf/2501.00103
 https://arxiv.org/pdf/2509.25182  https://arxiv.org/pdf/2410.10733 https://arxiv.org/pdf/2508.00413 
 极致的vae压缩，并且在WAN系列基础上更换vae后训练
 
+[MoE] Expert Race: A Flexible Routing Strategy for Scaling Diffusion Transformer with Mixture of Experts
+https://arxiv.org/pdf/2503.16057 可能是seeddance2.0的MoE做法
+
 ### 基础研究
 
 Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation
