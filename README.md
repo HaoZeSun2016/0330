@@ -147,3 +147,7 @@ MUON优化器改进
 
 https://dao-lab.ai/blog/2026/gram-newton-schulz/
 
+LLM-based Text Encoder with Instruction Templates
+
+文生图/视频的训练数据prompt template
+
